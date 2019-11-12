@@ -1,0 +1,40 @@
+==============Project Details==========
+	project name: Personal portfolio
+	Author: Arman hossain
+	E-mail: armanh686@gmail.com
+	contract: 01838472540
+	Date: 23/10/2019
+========================================*/
+
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+/*base css start*/
+ul{
+	list-style: none;
+	margin: 0;
+}
+a{
+	text-decoration: none;
+}
+h1,h2,h3,h4,h5,h6,p{
+	padding: 0;
+	margin: 0;
+}
+/*testimonial section*/
+.click-hover:hover{
+	color: red;
+	 border: 1px solid;
+	  padding: 10px;
+	  box-shadow: 5px 10px 8px 10px #888888;
+}
+/*base css end*/
+fieldset{
+	margin: 0 auto;
+	width: 60%;
+}
+table tr td{
+	margin: 0 auto;
+}
